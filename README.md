@@ -1,5 +1,14 @@
+```js
+const followMe = [
+    { name: 'Instagram', value: 'https://www.instagram.com/andregosling_/' },
+    { name: 'GitHub', value: 'https://github.com/AndreGosling' },
+]
 
-<!---
-AndreGosling/AndreGosling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+for (const i in followMe) {
+    const v = followMe[i]
+    const platform = v.name
+    platform.followUser({
+        url: v.value
+    })
+}
+```
