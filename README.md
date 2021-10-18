@@ -1,3 +1,8 @@
+Olá! Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focado em desenvolvimento à Web.
+
+* Front-end: ReactJS
+* Back-end: NodeJS
+
 ```js
 const followMe = [
     { name: 'Instagram', value: 'https://www.instagram.com/andregosling_/' },
