@@ -19,3 +19,7 @@ Olá! Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focad
    <a href="mailto:goslingdbusiness@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" /></a>
    <a href="https://www.google.com/search?client=opera-gx&q=Gosling%230001.+If+is+unavailable%2C+u+can+try+use+my+ID+to+find-me%3A+<%40!330011632988323843>+(330011632988323843)&sourceid=opera&ie=UTF-8&oe=UTF-8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="" /></a>
 </div>
+
+##
+  
+![Snake animation](https://github.com/andregosling/andregosling/blob/output/github-contribution-grid-snake.svg)
