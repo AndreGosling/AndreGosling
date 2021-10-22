@@ -23,7 +23,7 @@ Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focado em d
 </div>
 
 <div> 
-  <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901113333908910090/gif_ff.gif">
+  <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901116392651243580/v_verified_blue.gif">
 </div>
 
 ##
