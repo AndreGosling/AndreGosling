@@ -1,7 +1,7 @@
 <div>
   <h3>Olá! Seja bem-vindo!</h3>
 <!--   <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901094568244690944/ablobpopcorn.gif"> -->
-  <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901097598226665492/firewassis.gif">
+    <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901097598226665492/firewassis.gif">
 </div>
 
 ##
@@ -22,6 +22,17 @@ Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focado em d
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregosling&layout=compact&langs_count=7&theme=dark">
 </div>
 
+##
+
+<div> 
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+</div>
+
 <div> 
   <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901097344198668288/b_instagram.gif">
 </div>
@@ -34,6 +45,7 @@ Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focado em d
    <a href="https://open.spotify.com/user/7oojis7jp584qlloaeag0g64m?si=2afe86d01e71418e" target="_blank"><img src="https://open.spotify.com/user/7oojis7jp584qlloaeag0g64m?si=2afe86d01e71418e" alt="" /></a>
    <a href="mailto:goslingdbusiness@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" /></a>
    <a href="https://www.google.com/search?client=opera-gx&q=Gosling%230001.+If+is+unavailable%2C+u+can+try+use+my+ID+to+find-me%3A+<%40!330011632988323843>+(330011632988323843)&sourceid=opera&ie=UTF-8&oe=UTF-8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="" /></a>
+<!--   https://dev.to/envoy_/150-badges-for-github-pnk -->
 </div>
 
 <div> 
