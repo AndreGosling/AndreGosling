@@ -14,8 +14,8 @@ Olá! Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focad
     
 <div align='left'> 
    <p>Siga-me nas redes sociais! 👇</p>
-   <a href="https://www.instagram.com/andregosling_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" /></a>
-   <a href="https://open.spotify.com/user/7oojis7jp584qlloaeag0g64m?si=2afe86d01e71418e"><img src="https://open.spotify.com/user/7oojis7jp584qlloaeag0g64m?si=2afe86d01e71418e" alt="" /></a>
-   <a href="mailto:goslingdbusiness@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" /></a>
-   <a href="https://www.google.com/search?client=opera-gx&q=Gosling%230001.+If+is+unavailable%2C+u+can+try+use+my+ID+to+find-me%3A+<%40!330011632988323843>+(330011632988323843)&sourceid=opera&ie=UTF-8&oe=UTF-8"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="" /></a>
+   <a href="https://www.instagram.com/andregosling_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" /></a>
+   <a href="https://open.spotify.com/user/7oojis7jp584qlloaeag0g64m?si=2afe86d01e71418e" target="_blank"><img src="https://open.spotify.com/user/7oojis7jp584qlloaeag0g64m?si=2afe86d01e71418e" alt="" /></a>
+   <a href="mailto:goslingdbusiness@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" /></a>
+   <a href="https://www.google.com/search?client=opera-gx&q=Gosling%230001.+If+is+unavailable%2C+u+can+try+use+my+ID+to+find-me%3A+<%40!330011632988323843>+(330011632988323843)&sourceid=opera&ie=UTF-8&oe=UTF-8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="" /></a>
 </div>
