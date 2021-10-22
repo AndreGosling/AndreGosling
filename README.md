@@ -4,20 +4,7 @@ Olá! Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focad
 * Back-end: NodeJS
 
 Siga-me nas redes sociais! 👇
-```js
-const followMe = [
-    { name: 'Instagram', value: 'https://www.instagram.com/andregosling_/' },
-    { name: 'GitHub', value: 'https://github.com/AndreGosling' },
-]
 
-for (const i in followMe) {
-    const v = followMe[i]
-    const platform = v.name
-    platform.followUser({
-        url: v.value
-    })
-}
-```
 
 <div align='center'>
   <a href="https://github.com/andregosling">
@@ -25,7 +12,6 @@ for (const i in followMe) {
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregosling&layout=compact&langs_count=7&theme=dark"
 </div>
 
-
-
+##
 
 
