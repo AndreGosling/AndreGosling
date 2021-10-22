@@ -14,6 +14,6 @@ Olá! Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focad
 Siga-me nas redes sociais! 👇
 
 
-<div> 
-      <a href="mailto:goslingdbusiness@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" /></a>
+<div align='left'> 
+     <a href="mailto:goslingdbusiness@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" /></a>
 </div>
