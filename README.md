@@ -42,6 +42,8 @@ Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focado em d
   <h4>Estuding:</h4>
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<!--   https://devicon.dev -->
 </div>
 
 <div> 
