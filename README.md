@@ -6,7 +6,7 @@
 
 ##
 
-Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focado em desenvolvimento à Web.
+Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focado em desenvolvimento Web.
 
 * Front-end: ReactJS
 * Back-end: NodeJS
