@@ -12,7 +12,7 @@ Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focado em d
 * Back-end: NodeJS
 
 <div> 
-  <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901100212213395476/engine.gif">
+<!--   <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901100212213395476/engine.gif"> -->
 </div>
 
 ##
@@ -63,7 +63,7 @@ Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focado em d
 
 <div> 
 <!--   <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901099622641074207/Goos.gif"> -->
-  <img align=right width='70' height='70' src="https://cdn.discordapp.com/emojis/882345140973367366.gif?size=4096">
+<!--   <img align=right width='70' height='70' src="https://cdn.discordapp.com/emojis/882345140973367366.gif?size=4096"> -->
 </div>
 
 ##
