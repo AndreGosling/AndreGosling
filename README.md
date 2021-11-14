@@ -1,12 +1,15 @@
 <div>
   <h3>Olá! Seja bem-vindo!</h3>
 <!--   <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901094568244690944/ablobpopcorn.gif"> -->
-    <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901097598226665492/firewassis.gif">
+<!--     <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901097598226665492/firewassis.gif"> -->
 </div>
 
 ##
 
-Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focado em desenvolvimento Web.
+<div>
+    <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901097598226665492/firewassis.gif">
+  <p>Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focado em desenvolvimento Web.</p>
+</div>
 
 * Front-end: ReactJS
 * Back-end: NodeJS
@@ -22,17 +25,21 @@ Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focado em d
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregosling&layout=compact&langs_count=7&theme=dark">
 </div>
 
-<div> 
+<!-- <div> 
   <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901116392651243580/v_verified_blue.gif">
-</div>
+</div> -->
 
 ##
 
 <div> 
-  <h4>Techs:</h4>
+  <div>
+      <h4>Techs:</h4>
+      <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901116392651243580/v_verified_blue.gif">
+  </div>
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -40,20 +47,23 @@ Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focado em d
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <h4>Estuding:</h4>
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
+<!--   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" /> -->
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <!--   https://devicon.dev -->
 </div>
 
-<div> 
+<!-- <div> 
   <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901097344198668288/b_instagram.gif">
-</div>
+</div> -->
 
 ##
     
 <div align='left'> 
-   <p>Siga-me nas redes sociais! 👇</p>
+  <div>
+    <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901097344198668288/b_instagram.gif">
+     <p>Siga-me nas redes sociais! 👇</p>
+  </div>
+
    <a href="https://www.instagram.com/andregosling_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" /></a>
    <a href="https://open.spotify.com/user/7oojis7jp584qlloaeag0g64m?si=2afe86d01e71418e" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" /></a>
    <a href="mailto:goslingdbusiness@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" /></a>
