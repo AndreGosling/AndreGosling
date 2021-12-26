@@ -1,5 +1,5 @@
 <div>
-  <h3>Olá! Seja bem-vindo!</h3>
+  <h3>Olá. Seja bem-vindo!</h3>
 <!--   <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901094568244690944/ablobpopcorn.gif"> -->
 <!--     <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901097598226665492/firewassis.gif"> -->
 </div>
