@@ -11,8 +11,10 @@
   <p>Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focado em desenvolvimento Web.</p>
 </div>
 
-* Front-end: ReactJS
-* Back-end: NodeJS
+<!-- * Front-end: ReactJS
+* Back-end: NodeJS -->
+
+* React & Node
 
 <div> 
 <!--   <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901100212213395476/engine.gif"> -->
