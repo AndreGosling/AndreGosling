@@ -81,3 +81,10 @@
 ##
   
 ![Snake animation](https://github.com/andregosling/andregosling/blob/output/github-contribution-grid-snake.svg)
+
+<div align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/andregosling/andregosling" alt="Visitors badge" />
+   </a>
+</div>
+
