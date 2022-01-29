@@ -90,7 +90,6 @@
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/andregosling/andregosling" alt="Visitors badge" />
       <img src="https://badges.pufler.dev/commits/monthly/andregosling" alt="Visitors badge" />
-      <img src="https://badges.pufler.dev/updated/andregosling/AndreGosling" alt="Visitors badge" />
    </a>
 </div>
 
