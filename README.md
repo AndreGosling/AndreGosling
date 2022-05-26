@@ -6,9 +6,10 @@
 
 ##
 
-<div>
-    <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901097598226665492/firewassis.gif">
+<div >
+
   <p>Me chamo André Gosling, sou um Desenvolvedor Full-Stack, atualmente focado em desenvolvimento Web.</p>
+<!--       <img align="right" width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901097598226665492/firewassis.gif"> -->
 </div>
 
 <!-- * Front-end: ReactJS
@@ -36,7 +37,7 @@
 <div> 
   <div>
       <h4>Techs:</h4>
-      <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901116392651243580/v_verified_blue.gif">
+<!--       <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901116392651243580/v_verified_blue.gif"> -->
   </div>
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -65,7 +66,7 @@
     
 <div align='left'> 
   <div>
-    <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901097344198668288/b_instagram.gif">
+<!--     <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901097344198668288/b_instagram.gif"> -->
      <p>Siga-me nas redes sociais! 👇</p>
   </div>
 
