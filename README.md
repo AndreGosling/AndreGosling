@@ -39,19 +39,11 @@
       <h4>Techs:</h4>
 <!--       <img align=right width='70' height='70' src="https://cdn.discordapp.com/attachments/901093029241311232/901116392651243580/v_verified_blue.gif"> -->
   </div>
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width='50' height='50' src="https://andregosling.com/uploads/react-native.png" />
   <img width='50' height='50' src="https://andregosling.com/uploads/nextjs.png" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
 <!--   <h4>Estuding:</h4> -->
 <!--   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" /> -->
 <!--   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> -->
