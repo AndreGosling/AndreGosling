@@ -42,7 +42,6 @@
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width='50' height='50' src="https://andregosling.com/uploads/nextjs.png" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 <!--   <h4>Estuding:</h4> -->
 <!--   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" /> -->
